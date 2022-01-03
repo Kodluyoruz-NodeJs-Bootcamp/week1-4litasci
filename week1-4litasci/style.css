@@ -1,0 +1,12 @@
+.droparea {
+background-color: yellow;
+width: 250px;
+height: 250px;
+border: 20px solid powderblue;
+border-radius: 10px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
